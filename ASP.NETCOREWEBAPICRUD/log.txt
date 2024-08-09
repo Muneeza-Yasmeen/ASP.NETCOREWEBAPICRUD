@@ -1,0 +1,6 @@
+2024-08-08 08:26:30.589 +05:00 [INF] This is an information message
+2024-08-08 08:26:30.672 +05:00 [WRN] This is a warning message
+2024-08-08 08:26:30.674 +05:00 [ERR] This is an error message
+{"Timestamp":"2024-08-08T21:06:47.2104370+05:00","Level":"Information","MessageTemplate":"This is an information message"}
+{"Timestamp":"2024-08-08T21:06:47.2367713+05:00","Level":"Warning","MessageTemplate":"This is a warning message"}
+{"Timestamp":"2024-08-08T21:06:47.2381529+05:00","Level":"Error","MessageTemplate":"This is an error message"}
